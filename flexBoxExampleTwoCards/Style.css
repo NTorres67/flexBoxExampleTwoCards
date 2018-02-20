@@ -1,0 +1,26 @@
+﻿.container {
+    display: grid;
+    min-height: 100vh;
+}
+
+div.cards {
+    display: flex;
+}
+
+div.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: lightblue;
+    padding: 2px;
+}
+
+div.card {
+    flex: 0 0 250px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
